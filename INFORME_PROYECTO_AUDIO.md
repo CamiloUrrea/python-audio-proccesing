@@ -135,13 +135,6 @@ Según lo impreso por el pipeline, los dos métodos de estimación de frecuencia
 - Zölzer, U. (2022). *Digital audio signal processing*. John Wiley & Sons.
 - McFee, B., et al. *librosa: Audio and Music Signal Analysis in Python*. Documentación oficial: https://librosa.org
 - Virtanen, P., et al. *SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python*. Documentación oficial: https://scipy.org
-
-## Anexos
-
-- **Audio utilizado:** `audio/WhatsApp Ptt 2026-09-13 at 11.09.41 AM.ogg` — incluido en la carpeta del proyecto. **[COMPLETAR: agregar aquí un link de descarga si se sube a un repositorio externo]**
-- **Código fuente completo:** ver carpeta `src/` del proyecto adjunto, y documentación técnica en `docs/CODE_EXPLANATION.md`. **[COMPLETAR: link al repositorio de GitHub, si aplica]**
-- **Video explicativo:** **[COMPLETAR: link o código QR del video]**
-
 ### Nota sobre herramientas utilizadas
 
 El desarrollo del código se realizó utilizando **Claude Code** (Anthropic) como asistente de programación mediante la técnica de *vibe coding*: la arquitectura, decisiones metodológicas y especificaciones de cada módulo fueron definidas y dirigidas por los autores del proyecto, mientras que la herramienta de IA generó la implementación en Python a partir de esas especificaciones, la cual fue revisada y probada en cada etapa.
